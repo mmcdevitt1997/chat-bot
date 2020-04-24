@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/MatthewMcdevitt/workspace/machine-learning/chat-bot/model.tflearn"
+all_model_checkpoint_paths: "/Users/MatthewMcdevitt/workspace/machine-learning/chat-bot/model.tflearn"
